@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 93b5c110-d7f6-0937-9c7d-8c2a8f83d847
 resourcetype: Document
 title: MIT6_701S10_final11.pdf
 uid: bf6e65ea-aa81-2cbe-d380-f0a04dabeea9

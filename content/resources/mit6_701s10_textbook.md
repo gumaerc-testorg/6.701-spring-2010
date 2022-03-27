@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 60b5e783-2d8b-7ecc-ada3-cba353b07a69
 resourcetype: Document
 title: Introduction to Nanoelectronics
 uid: 6a951339-86a8-698a-5544-8d60c7834d15

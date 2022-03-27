@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 93b5c110-d7f6-0937-9c7d-8c2a8f83d847
 resourcetype: Document
 title: MIT6_701S10_midterm.pdf
 uid: e14cbc62-59ac-a8ac-36b3-647ce16562b4

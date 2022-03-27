@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 60b5e783-2d8b-7ecc-ada3-cba353b07a69
 resourcetype: Document
 title: MIT6_701S10_part3.pdf
 uid: 7ef02e58-4228-b06c-cb61-82eb7d606f62
