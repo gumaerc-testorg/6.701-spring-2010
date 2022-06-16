@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the course notes, Introduction to Nanoelectronics,
+  by Marc Baldo.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -27,7 +29,7 @@ FILES
 Complete course notes
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 6.7MB]({{< baseurl >}}/resources/mit6_701s10_textbook))
+({{% resource_link 6a951339-86a8-698a-5544-8d60c7834d15 "PDF - 6.7MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -36,7 +38,7 @@ Complete course notes
 Front matter: Preface, acknowledgements, table of contents
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_701s10_front))
+({{% resource_link e0acb732-1867-3d7e-cfcb-3c2b553774df "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -45,7 +47,7 @@ Front matter: Preface, acknowledgements, table of contents
 Introduction
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_701s10_intro))
+({{% resource_link 58e7b9ea-89cb-1be8-0ab6-8cb0f0ab4afe "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -54,7 +56,7 @@ Introduction
 Part 1: The quantum particle
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.5MB]({{< baseurl >}}/resources/mit6_701s10_part1))
+({{% resource_link b94a572f-cdd6-9308-2195-06bfc3f0f1ee "PDF - 1.5MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -63,7 +65,7 @@ Part 1: The quantum particle
 Part 2: The quantum particle in a box
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_701s10_part2))
+({{% resource_link 87bcb751-ac25-5175-479b-c19f97ecb2ad "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -72,7 +74,7 @@ Part 2: The quantum particle in a box
 Part 3: Two terminal quantum dot devices
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.1MB]({{< baseurl >}}/resources/mit6_701s10_part3))
+({{% resource_link 7ef02e58-4228-b06c-cb61-82eb7d606f62 "PDF - 1.1MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -81,7 +83,7 @@ Part 3: Two terminal quantum dot devices
 Part 4: Two terminal quantum wire devices
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_701s10_part4))
+({{% resource_link ba05ea41-80a9-ed95-01bc-bbf2ce3914d1 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -90,7 +92,7 @@ Part 4: Two terminal quantum wire devices
 Part 5: Field effect transistors
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.3MB]({{< baseurl >}}/resources/mit6_701s10_part5))
+({{% resource_link d4cf00df-ef71-19a3-6223-c743b2e3b424 "PDF - 1.3MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -99,7 +101,7 @@ Part 5: Field effect transistors
 Part 6: The electronic structure of materials
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.6MB]({{< baseurl >}}/resources/mit6_701s10_part6))
+({{% resource_link 2629cb70-9eaf-f5bb-a4ef-033af638f68d "PDF - 1.6MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -108,7 +110,7 @@ Part 6: The electronic structure of materials
 Part 7: Fundamental limits in computation
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_701s10_part7))
+({{% resource_link 028bda1e-1f4a-e061-96bb-f10eec94fbe0 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -117,7 +119,7 @@ Part 7: Fundamental limits in computation
 Part 8: References, appendices
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_701s10_part8))
+({{% resource_link 7b3688c7-0943-66de-4f3f-9c901e8ed844 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

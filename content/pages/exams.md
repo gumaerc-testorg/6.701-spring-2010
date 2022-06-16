@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides the midterm and final exam for the course.
 learning_resource_types:
 - Exams
 ocw_type: CourseSection
@@ -25,7 +26,7 @@ FILES
 2010 midterm
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_701s10_midterm))
+({{% resource_link e14cbc62-59ac-a8ac-36b3-647ce16562b4 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -34,7 +35,7 @@ FILES
 2010 final exam
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_701s10_final))
+({{% resource_link 8fcf212b-6432-fc84-eb43-7b5e24ca7ac9 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -43,7 +44,7 @@ FILES
 2011 final exam
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_701s10_final11))
+({{% resource_link bf6e65ea-aa81-2cbe-d380-f0a04dabeea9 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
