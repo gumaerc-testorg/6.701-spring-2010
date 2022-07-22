@@ -1,10 +1,16 @@
 ---
 content_type: page
+description: This section contains homework assignments and the simulation projects.
+  These tables refer to the end-of-chapter problems, which can be found in the course
+  notes.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 612e59a9-24ac-1d1a-fe58-4a65e3cc3aa9
 ---
 
-This section contains homework assignments and the simulation projects. These tables refer to the end-of-chapter problems, which can be found [in the course notes]({{< baseurl >}}/pages/readings). The 6.719 spin device project is not available on MIT OpenCourseWare.
+This section contains homework assignments and the simulation projects. These tables refer to the end-of-chapter problems, which can be found {{% resource_link 60b5e783-2d8b-7ecc-ada3-cba353b07a69 "in the course notes" %}}. The 6.719 spin device project is not available on MIT OpenCourseWare.
 
 Homework Assignments
 --------------------

@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, prerequisites, requirements, grading, and the course notes.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: f4c8af12-af6e-2bb1-e0c1-fd05ffe5277d
 ---
@@ -19,7 +23,7 @@ Traditionally, progress in electronics has been driven by miniaturization. But a
 Prerequisites
 -------------
 
-_6.007 Electromagnetic Energy: From Motors to Lasers_, or _[6.003 Signals and Systems](/courses/6-003-signals-and-systems-fall-2011/)_.
+_6.007 Electromagnetic Energy: From Motors to Lasers_, or _[6.003 Signals and Systems](/courses/6-003-signals-and-systems-fall-2011)_.
 
 Course Requirements and Grading
 -------------------------------
@@ -148,4 +152,4 @@ Spin device report
 Textbook
 --------
 
-The course notes are available in the [Readings]({{< baseurl >}}/pages/readings) section.
+The course notes are available in the {{% resource_link 60b5e783-2d8b-7ecc-ada3-cba353b07a69 "Readings" %}} section.
