@@ -5,6 +5,7 @@ file: /courses/6-701-introduction-to-nanoelectronics-spring-2010/7b3688c7094366d
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: MIT6_701S10_part8.pdf
 uid: 7b3688c7-0943-66de-4f3f-9c901e8ed844
 ---
 This resource contains information related to references, and appendices.
-

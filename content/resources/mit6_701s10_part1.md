@@ -5,6 +5,7 @@ file: /courses/6-701-introduction-to-nanoelectronics-spring-2010/b94a572fcdd6930
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: MIT6_701S10_part1.pdf
 uid: b94a572f-cdd6-9308-2195-06bfc3f0f1ee
 ---
 This resource contains information related to the quantum particle.
-

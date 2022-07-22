@@ -7,6 +7,7 @@ file: /courses/6-701-introduction-to-nanoelectronics-spring-2010/2629cb709eaff5b
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: MIT6_701S10_part6.pdf
 uid: 2629cb70-9eaf-f5bb-a4ef-033af638f68d
 ---
 This resource contains information related to the electronic structure of materials, the hydrogen atom and internuclear longer-range. attractive coulomb spacing.
-

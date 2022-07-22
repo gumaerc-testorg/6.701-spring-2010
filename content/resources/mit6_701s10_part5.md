@@ -6,6 +6,7 @@ file: /courses/6-701-introduction-to-nanoelectronics-spring-2010/d4cf00dfef7119a
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: MIT6_701S10_part5.pdf
 uid: d4cf00df-ef71-19a3-6223-c743b2e3b424
 ---
 This resource contains information related to field effect transistors, FET switching, quantum capacitance in FETs and the zero charging limit.
-

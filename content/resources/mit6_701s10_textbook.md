@@ -5,6 +5,7 @@ file: /courses/6-701-introduction-to-nanoelectronics-spring-2010/6a95133986a8698
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Introduction to Nanoelectronics
 uid: 6a951339-86a8-698a-5544-8d60c7834d15
 ---
 This resource contains the 6.701 course notes, Introduction to Nanoelectronics.
-
