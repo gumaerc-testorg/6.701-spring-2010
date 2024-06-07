@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information related to two terminal quantum wire
   devices.
 file: /courses/6-701-introduction-to-nanoelectronics-spring-2010/ba05ea4180a9ed9501bcbbf2ce3914d1_MIT6_701S10_part4.pdf
+file_size: 854167
 file_type: application/pdf
 learning_resource_types:
 - Readings
