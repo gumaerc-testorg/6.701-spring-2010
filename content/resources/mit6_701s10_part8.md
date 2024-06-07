@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information related to references, and appendices.
 file: /courses/6-701-introduction-to-nanoelectronics-spring-2010/7b3688c7094366de4f3f9c901e8ed844_MIT6_701S10_part8.pdf
+file_size: 787600
 file_type: application/pdf
 learning_resource_types:
 - Readings
