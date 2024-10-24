@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains information related to electron wavepacket propagation,
   the born-oppenheimer approximation, hybrid orbitals and two terminal quantum dot
   devices.
-file: /courses/6-701-introduction-to-nanoelectronics-spring-2010/e0acb73218673d7ecfcb3c2b553774df_MIT6_701S10_front.pdf
+file: /ol-ocw-studio-app/courses/6-701-introduction-to-nanoelectronics-spring-2010/e0acb73218673d7ecfcb3c2b553774df_MIT6_701S10_front.pdf
 file_size: 335648
 file_type: application/pdf
 learning_resource_types:
