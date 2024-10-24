@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information related to singlet molecule two-terminal
   device, bilayer atomic sheet, seesaw logic and NAND gate.
-file: /courses/6-701-introduction-to-nanoelectronics-spring-2010/8fcf212b6432fc84eb437b5e24ca7ac9_MIT6_701S10_final.pdf
+file: /ol-ocw-studio-app/courses/6-701-introduction-to-nanoelectronics-spring-2010/8fcf212b6432fc84eb437b5e24ca7ac9_MIT6_701S10_final.pdf
 file_size: 329369
 file_type: application/pdf
 learning_resource_types:
