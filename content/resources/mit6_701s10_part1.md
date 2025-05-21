@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information related to the quantum particle.
-file: /ol-ocw-studio-app/courses/6-701-introduction-to-nanoelectronics-spring-2010/b94a572fcdd69308219506bfc3f0f1ee_MIT6_701S10_part1.pdf
+file: /courses/6-701-introduction-to-nanoelectronics-spring-2010/b94a572fcdd69308219506bfc3f0f1ee_MIT6_701S10_part1.pdf
 file_size: 1564422
 file_type: application/pdf
 learning_resource_types:

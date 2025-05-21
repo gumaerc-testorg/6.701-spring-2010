@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information related to two terminal quantum dot
   devices, single molecule conductors and the quantum capacitance.
-file: /ol-ocw-studio-app/courses/6-701-introduction-to-nanoelectronics-spring-2010/7ef02e584228b06ccb6182eb7d606f62_MIT6_701S10_part3.pdf
+file: /courses/6-701-introduction-to-nanoelectronics-spring-2010/7ef02e584228b06ccb6182eb7d606f62_MIT6_701S10_part3.pdf
 file_size: 1101608
 file_type: application/pdf
 learning_resource_types:
