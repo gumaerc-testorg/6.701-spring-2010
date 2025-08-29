@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the 6.701 course notes, Introduction to Nanoelectronics.
-file: /courses/6-701-introduction-to-nanoelectronics-spring-2010/6a95133986a8698a55448d60c7834d15_MIT6_701S10_textbook.pdf
+file: /ol-ocw-studio-app/courses/6-701-introduction-to-nanoelectronics-spring-2010/6a95133986a8698a55448d60c7834d15_MIT6_701S10_textbook.pdf
 file_size: 6698983
 file_type: application/pdf
 learning_resource_types:
