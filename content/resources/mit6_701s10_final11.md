@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains problem statements related to born-oppenheimer
   approximation, and tight binding approximation.
-file: /courses/6-701-introduction-to-nanoelectronics-spring-2010/bf6e65eaaa812cbed380f0a04dabeea9_MIT6_701S10_final11.pdf
+file: /ol-ocw-studio-app/courses/6-701-introduction-to-nanoelectronics-spring-2010/bf6e65eaaa812cbed380f0a04dabeea9_MIT6_701S10_final11.pdf
 file_size: 677977
 file_type: application/pdf
 learning_resource_types:

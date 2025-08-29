@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information related to five orders of magnitude,
   the quantum particle and field effect transistors.
-file: /courses/6-701-introduction-to-nanoelectronics-spring-2010/58e7b9ea89cb1be80ab68cb0f0ab4afe_MIT6_701S10_intro.pdf
+file: /ol-ocw-studio-app/courses/6-701-introduction-to-nanoelectronics-spring-2010/58e7b9ea89cb1be80ab68cb0f0ab4afe_MIT6_701S10_intro.pdf
 file_size: 492386
 file_type: application/pdf
 learning_resource_types:
