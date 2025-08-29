@@ -54,9 +54,10 @@
   "learning_resource_types": [
     "Problem Sets",
     "Exams",
-    "Online Textbook"
+    "Open Textbooks"
   ],
   "site_uid": "210f56ba-04a2-4c4d-a4c5-f3e75c9018e5",
   "site_short_id": "6.701-spring-2010",
+  "site_url_path": "courses/6-701-introduction-to-nanoelectronics-spring-2010",
   "title": "Course Metadata"
 }

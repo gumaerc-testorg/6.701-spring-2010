@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains information related to singlet molecule two-terminal
   device, ballistic quantum wire FET and bilayer atomic sheet. '
-file: /courses/6-701-introduction-to-nanoelectronics-spring-2010/e14cbc6259aca8ac36b3647ce16562b4_MIT6_701S10_midterm.pdf
+file: /ol-ocw-studio-app/courses/6-701-introduction-to-nanoelectronics-spring-2010/e14cbc6259aca8ac36b3647ce16562b4_MIT6_701S10_midterm.pdf
 file_size: 222653
 file_type: application/pdf
 learning_resource_types:
